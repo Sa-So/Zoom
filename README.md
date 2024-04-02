@@ -37,10 +37,10 @@ Building an app which integrates within zoom to provide added functionality to t
 
 
 
-# Errors I faced
+# Errors / Problems I faced
 1. https://devforum.zoom.us/t/invalid-redirect-url-4-700-on-valid-redirect-url/15049
 2. ngrok not working
-
+  - solved by https://stackoverflow.com/questions/45425721/invalid-host-header-when-ngrok-tries-to-connect-to-react-dev-server     
 
 # Imp Links
 ## zoom
