@@ -34,3 +34,8 @@ https://explore.zoom.us/en/privacy/
 ![image](https://github.com/Sa-So/Zoom/assets/60461699/49c7e480-8c87-4962-a6d8-bf445824ba02)
 
 # My apps went away !!! argh~!
+- but my added apps are still there but I can't change it's config ;(
+
+# The bright side 
+![image](https://github.com/Sa-So/Zoom/assets/60461699/683614df-335e-4a65-b481-990129f44677)
+
